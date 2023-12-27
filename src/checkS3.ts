@@ -2,8 +2,8 @@ import AWS from 'aws-sdk';
 import express, {Request,Response} from 'express';
 // Configure AWS with your S3 credentials
 AWS.config.update({
-  accessKeyId: 'AKIAX5PVXHYWSXDGU7WW',
-  secretAccessKey: 'NMayyvR+Vp7g2AXvkBz06qjkA7HVB7PHZp/3uQtg',
+  accessKeyId: '',
+  secretAccessKey: '',
   region: 'us-east-2',
 });
  
